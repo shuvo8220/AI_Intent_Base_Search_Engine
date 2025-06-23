@@ -1,0 +1,6 @@
+langchain
+flask
+python-dotenv
+langchain_community
+langchain_experimental
+-e .
