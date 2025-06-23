@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
 ```ini
-PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+DEEPSEEK_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 ```
 
 
